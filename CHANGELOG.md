@@ -1,3 +1,6 @@
+3.3.0 (January 24, 2025)
+- `FlxInputText`: New demo! ([#373](https://github.com/HaxeFlixel/flixel-demos/pull/373))
+- `FlxSpriteFilters`: Re-enable DisplacementFilters ([371](https://github.com/HaxeFlixel/flixel-demos/pull/371))
 3.2.1 (Dec 11, 2024)
 - Various changes to every Project.xml ([#359](https://github.com/HaxeFlixel/flixel-demos/pull/359))([#369](https://github.com/HaxeFlixel/flixel-demos/pull/369))
 - Add compatibility for 5.9.0 ([#351](https://github.com/HaxeFlixel/flixel-demos/pull/351))([#369](https://github.com/HaxeFlixel/flixel-demos/pull/369))
