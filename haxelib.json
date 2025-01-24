@@ -4,8 +4,8 @@
     "license": "MIT",
     "tags": ["game", "openfl", "flash", "neko", "cpp", "android", "ios", "demo", "cross"],
     "description": "Demo Projects for HaxeFlixel",
-    "version": "3.2.1",
-    "releasenote": "Flixel 5.9.0 compatibility",
+    "version": "3.3.0",
+    "releasenote": "Add FlxinputText demo",
     "contributors": ["haxeflixel", "Gama11", "GeoKureli"],
     "dependencies": {}
 }
