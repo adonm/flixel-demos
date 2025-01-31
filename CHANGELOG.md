@@ -1,3 +1,7 @@
+3.3.1 (January 31, 2025)
+Fix warnings for the flixel 6.0.0 release ([374](https://github.com/HaxeFlixel/flixel-demos/pull/374))([375](https://github.com/HaxeFlixel/flixel-demos/pull/375))([376](https://github.com/HaxeFlixel/flixel-demos/pull/376))
+
+
 3.3.0 (January 24, 2025)
 - `FlxInputText`: New demo! ([#373](https://github.com/HaxeFlixel/flixel-demos/pull/373))
 - `FlxSpriteFilters`: Re-enable DisplacementFilters ([371](https://github.com/HaxeFlixel/flixel-demos/pull/371))
